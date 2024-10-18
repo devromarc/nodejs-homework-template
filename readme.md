@@ -1,3 +1,21 @@
+# Postman Result
+
+## Signup User
+<img width="500" alt="signup" src="https://github.com/user-attachments/assets/99960d16-469a-438e-82fa-ba323d667ce1">
+
+## Login User
+<img width="500" alt="login" src="https://github.com/user-attachments/assets/c2b899d5-ef36-45dd-9083-3b20ac1e60ae">
+
+## Get Current User
+<img width="500" alt="getcurrent" src="https://github.com/user-attachments/assets/300b1bbf-65b0-481d-9d0f-1396972a57c4">
+
+## Update (Patch) the subscription of the user
+<img width="500" alt="update (patch)" src="https://github.com/user-attachments/assets/6537b40e-5e5e-4a25-a0e9-37222617d143">
+
+## Logout User
+<img width="500" alt="logout" src="https://github.com/user-attachments/assets/944671e2-bd74-40f8-93d0-ec51d84dd319">
+
+
 ## GoIT Node.js Course Template Homework
 
 Please fork this repository to complete your homework assignments (2-6).
